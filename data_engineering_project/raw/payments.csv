@@ -1,0 +1,16 @@
+payment_id,order_id,payment_method,amount_paid,payment_date,payment_status
+PAY2001,ORD1001,Credit Card,80.65,2025-08-17,Failed
+PAY2002,ORD1002,Credit Card,2436.79,2025-06-24,Successful
+PAY2003,ORD1003,GCash,5762.2,2025-08-09,Successful
+PAY2004,ORD1004,Credit Card,2275.67,2025-08-15,Successful
+PAY2005,ORD1005,Bank Transfer,258.65,2025-07-04,Failed
+PAY2006,ORD1006,Cash on Delivery,3054.09,2025-07-26,Successful
+PAY2007,ORD1007,PayMaya,498.14,2025-07-05,Successful
+PAY2008,ORD1008,GCash,3978.98,2025-06-10,Successful
+PAY2009,ORD1009,Cash on Delivery,1095.66,2025-08-02,Successful
+PAY2010,ORD1010,PayMaya,1508.92,2025-08-02,Successful
+PAY2011,ORD1011,PayMaya,3727.73,2025-06-20,Successful
+PAY2012,ORD1012,Credit Card,3345.71,2025-08-01,Successful
+PAY2013,ORD1013,Cash on Delivery,439.81,2025-06-05,Failed
+PAY2014,ORD1014,GCash,1723.66,2025-08-16,Successful
+PAY2015,ORD1015,PayMaya,4584.33,2025-07-05,Successful

@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,order_status,shipping_address,total_order_value,successful_amount_paid,has_delivery_record,balance_due,is_fully_paid,fulfillment_status,full_name,email,city,customer_type,delivery_count,latest_delivery_status,earliest_shipment_date,latest_delivery_date
+ORD1001,CUST013,2025-08-16,Cancelled,"173 Mabini St, Cebu City",1700.86,0.0,False,1700.86,False,Payment Issue,Cristina Villanueva,cristina.villanueva@email.com,Cebu City,New,1,Returned,,
+ORD1002,CUST015,2025-06-23,Delivered,"700 Mabini St, Iloilo City",2436.79,0.0,True,2436.79,False,Payment Issue,Bea Navarro,bea.navarro@email.com,Iloilo City,Regular,1,Delivered,2025-06-25,2025-06-27
+ORD1003,CUST011,2025-08-06,Delivered,"417 Rizal Ave, Cebu City",5762.2,0.0,True,5762.2,False,Payment Issue,Nina Aquino,nina.aquino@email.com,Cebu City,Premium,1,Delivered,2025-08-08,2025-08-13
+ORD1004,CUST012,2025-08-15,Confirmed,"519 Quezon Blvd, Davao City",2275.67,0.0,True,2275.67,False,Payment Issue,Paolo Gonzales,paolo.gonzales@email.com,Davao City,New,1,In Transit,2025-08-18,
+ORD1005,CUST011,2025-07-02,Cancelled,"576 Mabini St, Cebu City",1701.47,0.0,False,1701.47,False,Payment Issue,Nina Aquino,nina.aquino@email.com,Cebu City,Premium,1,Not Shipped,,
+ORD1006,CUST008,2025-07-23,Delivered,"858 Bonifacio St, Davao City",3054.09,0.0,True,3054.09,False,Payment Issue,Carlo Ramos,carlo.ramos@email.com,Davao City,Regular,1,Delivered,2025-07-26,2025-07-29
+ORD1007,CUST001,2025-07-04,Delivered,"255 Rizal Ave, Iloilo City",498.14,0.0,True,498.14,False,Payment Issue,Maria Santos,maria.santos@email.com,Iloilo City,Premium,1,Delivered,2025-07-06,2025-07-11
+ORD1008,CUST007,2025-06-09,Delivered,"150 Rizal Ave, Quezon City",3978.98,0.0,True,3978.98,False,Payment Issue,Liza Flores,liza.flores@email.com,Quezon City,New,1,Delivered,2025-06-12,2025-06-14
+ORD1009,CUST012,2025-08-01,Confirmed,"666 Osmena St, Davao City",1095.66,0.0,True,1095.66,False,Payment Issue,Paolo Gonzales,paolo.gonzales@email.com,Davao City,New,1,In Transit,2025-08-03,
+ORD1010,CUST015,2025-08-01,Confirmed,"859 Bonifacio St, Iloilo City",1508.92,0.0,True,1508.92,False,Payment Issue,Bea Navarro,bea.navarro@email.com,Iloilo City,Regular,1,In Transit,2025-08-02,
+ORD1011,CUST013,2025-06-20,Delivered,"437 Quezon Blvd, Cebu City",3727.73,0.0,True,3727.73,False,Payment Issue,Cristina Villanueva,cristina.villanueva@email.com,Cebu City,New,1,Delivered,2025-06-22,2025-06-23
+ORD1012,CUST010,2025-08-01,Confirmed,"283 Rizal Ave, Baguio",3345.71,0.0,True,3345.71,False,Payment Issue,Mark Castillo,mark.castillo@email.com,Baguio,Premium,1,In Transit,2025-08-02,
+ORD1013,CUST013,2025-06-02,Pending,"733 Mabini St, Cebu City",1017.53,0.0,False,1017.53,False,Payment Issue,Cristina Villanueva,cristina.villanueva@email.com,Cebu City,New,1,Not Shipped,,
+ORD1014,CUST005,2025-08-15,Confirmed,"979 Osmena St, Davao City",1723.66,0.0,True,1723.66,False,Payment Issue,Rosa Garcia,rosa.garcia@email.com,Davao City,New,1,In Transit,2025-08-18,
+ORD1015,CUST007,2025-07-03,Delivered,"832 Rizal Ave, Quezon City",4584.33,0.0,True,4584.33,False,Payment Issue,Liza Flores,liza.flores@email.com,Quezon City,New,1,Delivered,2025-07-06,2025-07-11

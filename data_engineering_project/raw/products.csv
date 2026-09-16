@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,supplier_id,stock_quantity
+P001,Wireless Mouse,Electronics,505.08,SUP01,250
+P002,Bluetooth Speaker,Electronics,2184.83,SUP02,48
+P003,USB-C Charging Cable,Electronics,1983.61,SUP02,46
+P004,Cotton T-Shirt,Apparel,437.82,SUP04,296
+P005,Denim Jeans,Apparel,2093.49,SUP02,184
+P006,Running Shoes,Footwear,2319.44,SUP05,219
+P007,Yoga Mat,Sports & Fitness,836.17,SUP04,266
+P008,Stainless Steel Water Bottle,Home & Kitchen,1056.58,SUP04,207
+P009,Non-Stick Frying Pan,Home & Kitchen,774.41,SUP01,91
+P010,LED Desk Lamp,Home & Kitchen,1837.52,SUP04,11
+P011,Backpack,Accessories,1305.12,SUP05,277
+P012,Sunglasses,Accessories,671.78,SUP05,173
+P013,Notebook Set,Office Supplies,1457.74,SUP05,67
+P014,Wireless Keyboard,Electronics,574.59,SUP02,188
+P015,Portable Power Bank,Electronics,2109.1,SUP03,187

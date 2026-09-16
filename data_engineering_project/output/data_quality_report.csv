@@ -1,0 +1,12 @@
+rule,source,affected_rows,status_action
+orders.customer_id -> customers.customer_id,orders,0,Reported for review; not silently removed
+payments.order_id -> orders.order_id,payments,0,Reported for review; not silently removed
+deliveries.order_id -> orders.order_id,deliveries,0,Reported for review; not silently removed
+orders <-> products (no linking field),orders/products,15,Schema gap — no order_items bridge exists; see Task 7
+row_count_before_vs_after,,15 -> 15,OK
+order_id_uniqueness,,0 duplicate keys,OK
+missing_after_join::full_name,,0 nulls,OK
+missing_after_join::latest_delivery_status,,0 nulls,OK
+negative_balance_due,,0 rows,OK
+negative_total_order_value,,0 rows,OK
+negative_successful_amount_paid,,0 rows,OK

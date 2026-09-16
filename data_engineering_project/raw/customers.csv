@@ -1,0 +1,16 @@
+customer_id,full_name,email,city,registration_date,customer_type
+CUST001,Maria Santos,maria.santos@email.com,Iloilo City,2024-06-17,Premium
+CUST002,Juan Reyes,juan.reyes@email.com,Makati,2025-03-04,Regular
+CUST003,Ana Cruz,ana.cruz@email.com,Cagayan de Oro,2024-08-09,Premium
+CUST004,Jose Bautista,jose.bautista@email.com,Bacolod,2024-07-06,Premium
+CUST005,Rosa Garcia,rosa.garcia@email.com,Davao City,2024-08-29,New
+CUST006,Pedro Torres,pedro.torres@email.com,Zamboanga City,2025-01-14,Regular
+CUST007,Liza Flores,liza.flores@email.com,Quezon City,2024-03-11,New
+CUST008,Carlo Ramos,carlo.ramos@email.com,Davao City,2024-08-26,Regular
+CUST009,Grace Mendoza,grace.mendoza@email.com,Zamboanga City,2025-02-20,Regular
+CUST010,Mark Castillo,mark.castillo@email.com,Baguio,2024-02-04,Premium
+CUST011,Nina Aquino,nina.aquino@email.com,Cebu City,2025-05-24,Premium
+CUST012,Paolo Gonzales,paolo.gonzales@email.com,Davao City,2025-01-12,New
+CUST013,Cristina Villanueva,cristina.villanueva@email.com,Cebu City,2024-03-31,New
+CUST014,Ramon Del Rosario,ramon.del rosario@email.com,Quezon City,2025-04-09,Premium
+CUST015,Bea Navarro,bea.navarro@email.com,Iloilo City,2024-12-17,Regular

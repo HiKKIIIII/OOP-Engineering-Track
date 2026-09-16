@@ -1,0 +1,6 @@
+field_name,data_type,key_role,description
+order_item_id,object (string),Primary Key,Unique identifier for a single product line within an order.
+order_id,object (string),Foreign Key -> orders.order_id,Links this line item back to its parent order.
+product_id,object (string),Foreign Key -> products.product_id,Links this line item to the specific product purchased.
+quantity,int64,Attribute,Number of units of this product purchased within the order.
+unit_price,float64,Attribute,Price per unit at time of purchase (may differ from current products.unit_price).
